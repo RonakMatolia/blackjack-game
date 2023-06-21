@@ -1,0 +1,53 @@
+body {
+    background-color: green;
+    font-weight: 700;
+}
+
+.blackjack-class{
+    text-align: center;
+    
+}
+
+
+
+h1 {
+    font-size: 5rem;
+    color: goldenrod;
+}
+
+#message-el {
+    color: white;
+   
+    font-size: 2rem;
+    font-style: italic;
+}
+.blackjack-class p{
+    font-size: 2rem;
+    color: white;
+}
+#start-el{
+    border: 2px solid black;
+    font-size: 30px;
+    height: 70px;
+    width: 200px;
+    font-weight: bold;
+    color: #016f32;
+    background:  goldenrod;
+
+}
+#start-el:hover{
+    border: 2px solid blue;
+}
+#newGame-el{
+    border: 2px solid black;
+    font-size: 30px;
+    height: 70px;
+    width: 200px;
+    font-weight: bold;
+    color: #016f32;
+    background:  goldenrod;
+    margin-top: 10px;
+}
+#newGame-el:hover{
+    border: 2px solid blue;
+}
